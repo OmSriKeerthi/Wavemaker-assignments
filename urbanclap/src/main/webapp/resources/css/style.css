@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: black;
+    background-size: cover;
+}
+.image-property{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.form-floating{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 20px;
+}
+.bg-con1{
+    background: skyblue;
+
+    width: 650px;
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-right: 300px;
+    padding: 70px;
+    margin-bottom:50px;
+
+}
+.form-floating1{
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    padding-top: 0px;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+#floatingInputGrid{
+    height:40px;
+    width:300px;
+}
+#floatingSelectGrid{
+    height:40px;
+    width:300px;
+}
+.bgcon-para{
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 400;
+}
+a{
+    text-decoration: underline;
+    color:black;
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+   .heading2{
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+   }
+   .heading3{
+    color:black;
+    font-size: 21px;
+    font-weight:300;
+
+    margin-left:20px;
+   }
+    .image-container{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .image-container2{
+        margin-left:40px;
+        margin-bottom: 30px;
+    }
+    .container4{
+        background: black;
+        background-size: cover;
+        width:100vw;
+    }
+    .heading4{
+        color:white;
+        font-size:16px;
+        display:inline;
+        /* margin-left:12px; */
+        font-weight: normal;
+        margin-top:40px;
+        padding: 20px;
+        margin:10px;
+
+    }
+    .heading5{
+        color:white;
+        font-size:16px;
+        display:inline;
+
+        font-weight: normal;
+        padding:20px;
+        margin:10px;
+
+
+    }
+    .bi{
+        margin:4px;
+
+    }
+    .icons-container{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
